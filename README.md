@@ -1,2 +1,2 @@
 # Relat-rio_PowerBI_desafio_DIO
-Relatório de dados em Power BI
+Relatório em Power BI baseado em dados exemplos financeiros.
